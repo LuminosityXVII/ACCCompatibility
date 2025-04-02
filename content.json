@@ -13,6 +13,24 @@
       "Section": "Dialogue",
       "Description": "If enabled, NPCs reference each others' species, mention having fur or scales, etc."
     },
+    "Bookseller": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Compatibility",
+      "Description": "Whether to modify the bookseller. Disable for compatibility with mods like They Deserve It Too (https://www.nexusmods.com/stardewvalley/mods/20414)."
+    },
+    "Desert Trader": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Compatibility",
+      "Description": "Whether to modify the desert trader. Disable for compatibility with mods like They Deserve It Too (https://www.nexusmods.com/stardewvalley/mods/20414)."
+    },
+    "Mines Dwarf": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Compatibility",
+      "Description": "Whether to modify the dwarf in the mines. Disable for compatibility with mods like They Deserve It Too (https://www.nexusmods.com/stardewvalley/mods/20414)."
+    },
     "Abigail to Albert": {
       "AllowValues": "true, false",
       "Default": "false",
